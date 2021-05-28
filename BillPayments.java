@@ -18,5 +18,12 @@ public class BillPayments implements Bank {
 		customers.remove(2);
 		System.out.println(customers);
 		
+		
+		//changes in branch(main2) file by adding few comments
+			//name: Shahzaib Ansari
+			//rollno:2019-SE-249
+			//section: E
+		
+		
 	}
 }
